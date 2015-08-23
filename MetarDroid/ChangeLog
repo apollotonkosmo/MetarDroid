@@ -1,0 +1,12 @@
+-version 0.8
+-version 1.0 
+first release
+-version 1.1 
+	article cell padding
+	weather cell padding
+	article refresh
+	progress spinner center top
+-version 1.2
+	minor bug fixes
+	UI improvements
+	news oncreate

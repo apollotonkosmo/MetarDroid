@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- <item -->
+    <!-- android:id="@+id/action_weather_fav" -->
+    <!-- android:icon="@drawable/ic_action_favorite" -->
+    <!-- android:orderInCategory="100" -->
+    <!-- android:showAsAction="always" -->
+
+
+    <!-- android:title="@string/action_weather_fav"/> -->
+    <item
+        android:id="@+id/action_weather_share"
+        android:icon="@drawable/ic_action_share"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_weather_share"/>
+
+</menu>
